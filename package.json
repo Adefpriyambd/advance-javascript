@@ -1,0 +1,15 @@
+{
+  "name": "advance-javascript",
+  "version": "1.0.0",
+  "description": "Belajar Lanjutan Java Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Adef",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^11.8.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
