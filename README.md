@@ -1,25 +1,28 @@
-Javascript Project
+### JavaScript Project
+##### This is my javascript project for completing task from Sanbercode
+___
+### Preparation
+___
 
-This is my javascript project for completing task from Sanbercode
+#### 1. Install Node js
+#### 2. Check Node js version
+##### Node version => v16.x.x
+##### `node -v`
+##### npm version => v8.x.x
+##### `npm -v`
 
-Preparation
-1. Install Node js
-2. Check Node js version
-Node version => v16.x.x
-node -v
+#### 3. Install library from npm packages
+##### Install library prompt-sync
 
-npm version => v8.x.x
-npm -v
+`npm install prompt-sync`
 
-3. Install library from npm packages
-Install library prompt-sync
-npm install prompt-sync
+##### Install library math js
 
-Install library math js
-npm install mathjs
+`npm install mathjs`
 
-How to Run?
-node <filename>.js
+---- 
+### How to Run?
+`node <filename>.js`
 
-example:
-node soal1.js
+#### example:
+`node soal1.js`
